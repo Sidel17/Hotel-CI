@@ -1,2 +1,1 @@
-# Hotel-CI
 API

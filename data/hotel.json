@@ -1,0 +1,40 @@
+{
+    "menu": [
+        {
+            "room_code": "STDSP",
+            "type": "Superior Room",
+            "description": "Tipe kamar standar dengan harga yang paling ekonomis. Fasilitas yang disediakan yaitu tempat tidur, televisi, mesin pembuat teh dan kopi serta kamar mandi dengan luas 30 m2.",
+            "price": 500,
+            "gambar": "standar.png"
+        },
+        {
+            "room_code": "DLXRM",
+            "type": "Deluxe Room",
+            "description": "Tipe kamar ini berada satu level diatas superior room dan standar room. Fasilitas yang disediakan yaitu tempat tidur, televisi,kulkas, brankas, mesin pembuat teh dan kopi serta kamar mandi dengan luas 40 m2.",
+            "price": 1000,
+            "gambar": "deluxe.png"
+        },
+        {
+            "room_code": "SUIRM",
+            "type": "Suite Room",
+            "description": "Suite room memiliki fasilitas yang lebih lengkap diantara tipe superior dan deluxe room. Fasilitas yang disediakan yaitu tempat tidur, furniture dengan tampilan yang terbaik, televisi, kulkas, brankas, mesin pembuat teh dan kopi serta kamar mandi dengan luas 300 m2.",
+            "price": 1200,
+            "gambar": "suite.png"
+        },
+        {
+            "room_code": "SRSURM",
+            "type": "Senior Suite Room",
+            "description": "Sebuah ruangan besar dimana ruang tidur dan ruang duduk (seating area) terpisah. Senior Suite room memiliki fasilitas yang lebih lengkap diantara tipe superior dan deluxe room. Fasilitas yang disediakan yaitu tempat tidur, furniture dengan tampilan yang terbaik, televisi, kulkas, brankas, mesin pembuat teh dan kopi serta kamar mandi dengan luas 350 m2.",
+            "price": 1300,
+            "gambar": "junior.png"
+        },
+        {
+            "room_code": "CLEXRM",
+            "type": "Club and Executive Room",
+            "description": "Tipe kamar spesial, berada di lantai paling atas dan perlu akses ketika ingin memasukinya. Menawarkan view yang sangat indah dari posisi kamar Club and Executive Room. Fasilitas yang disediakan tempat tidur, televisi, kamar mandi, kulkas, brankas, dapur dan ruang tamu dengan luas 500 m2.",
+            "price": 1500,
+            "gambar": "club.png"
+        }
+   
+    ]
+}
